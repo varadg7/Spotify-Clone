@@ -1,0 +1,35 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="500" height="500" fill="#121212"></rect>
+
+  <!-- Head -->
+  <circle cx="250" cy="120" r="35" fill="white"></circle>
+
+  <!-- Body -->
+  <line x1="250" y1="155" x2="250" y2="280" stroke="white" stroke-width="14" stroke-linecap="round"></line>
+
+  <!-- Arms -->
+  <line x1="180" y1="200" x2="320" y2="200" stroke="white" stroke-width="14" stroke-linecap="round"></line>
+
+  <!-- Legs -->
+  <line x1="250" y1="280" x2="200" y2="370" stroke="white" stroke-width="14" stroke-linecap="round"></line>
+
+  <line x1="250" y1="280" x2="300" y2="370" stroke="white" stroke-width="14" stroke-linecap="round"></line>
+
+  <!-- Barbell -->
+  <line x1="120" y1="200" x2="380" y2="200" stroke="#1DB954" stroke-width="10"></line>
+
+  <!-- Left weights -->
+  <rect x="90" y="165" width="15" height="70" fill="#1DB954"></rect>
+  <rect x="65" y="175" width="15" height="50" fill="#1DB954"></rect>
+
+  <!-- Right weights -->
+  <rect x="395" y="165" width="15" height="70" fill="#1DB954"></rect>
+  <rect x="420" y="175" width="15" height="50" fill="#1DB954"></rect>
+
+  <!-- Text -->
+  <text x="250" y="450" text-anchor="middle" fill="#1DB954" font-size="48" font-weight="bold" font-family="Arial">
+    GYM
+  </text>
+
+</svg>

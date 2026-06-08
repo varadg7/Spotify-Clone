@@ -1,0 +1,29 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#450af5"></stop>
+      <stop offset="100%" stop-color="#8a5cff"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="500" rx="25" fill="url(#bg)"></rect>
+
+  <!-- Heart -->
+  <path d="M250 390
+       L215 358
+       C110 265 70 225 70 155
+       C70 100 112 60 165 60
+       C200 60 230 78 250 108
+       C270 78 300 60 335 60
+       C388 60 430 100 430 155
+       C430 225 390 265 285 358
+       Z" fill="white"></path>
+
+  <!-- Text -->
+  <text x="250" y="455" text-anchor="middle" fill="white" font-size="32" font-family="Arial" font-weight="bold">
+    LIKED SONGS
+  </text>
+
+</svg>
